@@ -1,0 +1,16 @@
+Q1. What is Python? What are the ways to install Python?
+Ans-
+Python is a high-level programming language. It was created by Guido Van Rossum and released first in 1991.
+
+There are foolowing ways for install Python :
+1. from python.org
+2. from third party anaconda distribution
+
+
+Q2. What are code environments? Types?
+Ans
+Code environment is a place where we can writecode, compile it, and see the output/outcome all together in just one place.
+There are 3 types :
+1. Text editors - VS code , ATOM
+2. Full IDE's - PyCharm , Spyder
+3. Notebook Environment - Jupyter Notebook
